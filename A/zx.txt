@@ -1,0 +1,22 @@
+[
+  {
+    "name": "游本昌济公",
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/jigyj.txt",
+    "img": "https://bkimg.cdn.bcebos.com/pic/bd315c6034a85edf536474b849540923dc547545"
+  },
+  {
+    "name": "新白娘子",
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/xbnzcq.txt",
+    "img": "https://codeberg.org/w1111/1/raw/branch/main/A/xbnz.png"
+  },
+  {
+    "name": "还珠格格",
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/hzgg.txt",
+    "img": "https://codeberg.org/w1111/1/raw/branch/main/A/gg.jpg"
+  },
+  {
+    "name": "MTV音乐视频",
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV1.txt",
+    "img": "https://api.uuz.bid/random"
+  }
+]

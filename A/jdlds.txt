@@ -1,0 +1,18 @@
+[
+   {
+    "name": "济公游记",
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/jigyj.txt&&&https://bkimg.cdn.bcebos.com/pic/bd315c6034a85edf536474b849540923dc547545?cid=1"
+   },
+   {
+    "name": "新白娘子",
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/xbnzcq.txt&&&https://codeberg.org/w1111/1/raw/branch/main/A/xbnz.png?cid=2"
+    },
+    {
+        "name": "还珠格格",
+        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/hzgg.txt&&&https://codeberg.org/w1111/1/raw/branch/main/A/gg.jpg?cid=3"
+    },
+    {
+        "name": "MV音乐视频",
+        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV1.txt&&&https://api.horosama.com/random.php?cid=4"
+    }
+]
