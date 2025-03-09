@@ -5,11 +5,11 @@
    },
    {
     "name": "新白娘子",
-    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/xbnzcq.txt&&&https://codeberg.org/w1111/1/src/branch/main/jpg-png/1.png?cid=3"
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/xbnzcq.txt&&&https://codeberg.org/w1111/1/raw/branch/main/jpg-png/2.png?cid=2"
     },
     {
         "name": "还珠格格",
-        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/hzgg.txt&&&https://codeberg.org/w1111/1/src/branch/main/jpg-png/2.jpg?cid=3"
+        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/hzgg.txt&&&https://codeberg.org/w1111/1/raw/branch/main/jpg-png/1.jpg?cid=3"
     },
     {
         "name": "MV音乐视频",
