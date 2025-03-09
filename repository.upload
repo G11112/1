@@ -1,0 +1,3 @@
+[repository.upload]
+; Max number of files per upload. Defaults to 500
+MAX_FILES = 500
