@@ -43,15 +43,5 @@
   "name": "DJ频道",
   "url": "https://codeberg.org/w1111/1/raw/branch/main/A/DJ%E9%A2%91%E9%81%93.txt",
   "img": "https://singlemouse.cn/api/img.php/"
-  },
-  {
-  "name": "DJ音乐MV",
-  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV4.txt",
-  "img": "https://singlemouse.cn/api/img-moblie.php/"
-  },
-  {
-  "name": "DJ在线",
-  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV2.txt",
-  "img": "https://www.loliapi.com/acg/pe/"
   }
 ]
