@@ -15,22 +15,22 @@
   "img": "https://codeberg.org/w1111/1/raw/branch/main/jpg-png/1.jpg"
   },
   {
-        "name": "电影轮播",
+        "name": "🎥电影轮播🎥",
         "url": "https://codeberg.org/w1111/1/raw/branch/main/A/电影轮播.txt",
         "img": "https://深色壁纸.xxooo.cf/"
     },
   {
-    "name": "点歌音乐视频165页",
+    "name": "📀点歌音乐视频165页📀",
     "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt",
   "img": "https://api.uuz.bid/random/"
   },
   {
-  "name": "歌星",
+  "name": "💫歌星💫",
   "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV.txt",
   "img": "https://api.uuz.bid/random/"
   },
   {
-  "name": "MTV视频全网音乐",
+  "name": "👉MTV视频🌐全网音乐👈",
   "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV1.txt",
   "img": "https://api.horosama.com/random.php/"
   },
