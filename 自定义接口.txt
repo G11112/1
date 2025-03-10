@@ -15,20 +15,20 @@
       "filterable": 1,
       "ext": "https://codeberg.org/w1111/1/raw/branch/main/A/wnkj.json"
     },
-          {"key":"jdlds","name":"🔳经典老电视🔳","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdds.txt"},
+          {"key":"jdlds","name":"🔳经典老电视🔳","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdlds.txt"},
           {
-            "key": "在线",
-            "name": "📺经典老电视📺",
+            "key": "zx",
+            "name": "📀经典老电视📀",
             "type": 3,
             "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "order_num": 0,
-            "changeable":1,
-            "ext": "https://codeberg.org/w1111/1/raw/branch/main/B/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD%5B%E5%90%88%5D.js?type=url&params=https://codeberg.org/w1111/1/raw/branch/main/B/xblzhzgg.txt"
+            "filterable": 1,
+            "ext": "https://codeberg.org/w1111/1/raw/branch/main/B/zx.js?type=url&params=https://codeberg.org/w1111/1/raw/branch/main/B/zx.txt"
         },
-        {"key":"JD经典","name":"📡经典老电视📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD1.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdds2.json"},
+        {"key":"JD经典","name":"📺经典老电视点播📺","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
+        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/DSDBO.json"},
+        {"key":"YYDBO","name":"🎵🎶音乐点播合集🎶🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/YYDBO.json"},
         {
 			"key":"bili",
 			"name":"🅱️B站|Bili",
