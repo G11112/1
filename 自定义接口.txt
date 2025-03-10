@@ -1,16 +1,21 @@
 {
-    "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.jar",
-    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-    "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-    "sites": [
-          {
-            "key": "豆瓣",
-            "name": "🌈公众号【宝盒没宝】",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
-          {"key":"jdlds","name":"🔳经典老电视🔳","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w2825327190/youyou/raw/branch/main/IPTV-M3u8/jdds.txt"},
+  "drives": [{"server":"http://192.168.3.4:9080/dav","userName":"hewei","password":"2730006208","type":"webdav"}],
+  "spider": "http://110.42.41.38:888/lib/pg.jar",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo":"https://gd-hbimg.huaban.com/ca8b4e7379e601bca6eb21c33c1994e59e991b481ec6c7-RbvXmL_fw658",
+  "sites": [
+        {
+      "key": "豆瓣",
+      "name": "豆瓣推荐",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://tv.xn--11x555b.top/4K/jar/xhpmd.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/w1111/1/raw/branch/main/A/wnkj.json"
+    },
+          {"key":"jdlds","name":"🔳经典老电视🔳","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdds.txt"},
           {
             "key": "在线",
             "name": "📺经典老电视📺",
@@ -21,9 +26,9 @@
             "filterable": 0,
             "order_num": 0,
             "changeable":1,
-            "ext": "https://codeberg.org/w2825327190/youyou/raw/branch/main/IPTV-M3u8/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD%5B%E5%90%88%5D.js?type=url&params=https://codeberg.org/w2825327190/youyou/raw/branch/main/IPTV-M3u8/xblzhzgg.txt"
+            "ext": "https://codeberg.org/w1111/1/raw/branch/main/B/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD%5B%E5%90%88%5D.js?type=url&params=https://codeberg.org/w1111/1/raw/branch/main/B/xblzhzgg.txt"
         },
-        {"key":"JD经典","name":"📡经典老电视📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w2825327190/youyou/raw/branch/main/IPTV-M3u8/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD1.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w2825327190/youyou/raw/branch/main/IPTV-M3u8/jdds2.json"},
+        {"key":"JD经典","name":"📡经典老电视📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD1.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdds2.json"},
         {
 			"key":"bili",
 			"name":"🅱️B站|Bili",
@@ -1773,21 +1778,21 @@
             ]
         }
     ],
-    "lives": [{"name":"电视直播1(📺)","type":0,"url":"https://codeberg.org/w2825327190/youyou/raw/branch/main/IPTV-M3u8/biptv2.txt"},
+    "lives": [{"name":"📀直播1📀","type":0,"url":"https://codeberg.org/w1111/1/raw/branch/main/A/ZBTV.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
             {
             "name": "📺直播2",
             "type": 0,
-            "url": "https://codeberg.org/w2825327190/youyou/raw/branch/main/IPTV-M3u8/嘿嘿嘿.txt",
+            "url": "https://codeberg.org/w1111/1/raw/branch/main/A/TV1.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
       {
             "name": "📺直播3",
             "type": 0,
-            "url": "https://codeberg.org/w2825327190/youyou/raw/branch/main/IPTV-M3u8/嘿嘿嘿2.txt",
+            "url": "https://codeberg.org/w1111/1/raw/branch/main/A/TV2.txt",
             "ua": "okhttp/3.15"
         },
-        {"name": "📀天微MTV📀","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+        {"name": "📀点歌MTV📀","type": 0,"url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
     ],
     "flags": [
         "youku",
