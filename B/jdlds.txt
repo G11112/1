@@ -12,7 +12,39 @@
         "url": "https://codeberg.org/w1111/1/raw/branch/main/A/hzgg.txt&&&https://codeberg.org/w1111/1/raw/branch/main/jpg-png/1.jpg?cid=3"
     },
     {
-        "name": "MV音乐视频",
-        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV1.txt&&&https://api.horosama.com/random.php?cid=4"
-    }
+        "name": "📽电影轮播📽",
+        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/电影轮播.txt&&&https://深色壁纸.xxooo.cf/?cid=4"
+    },
+    {
+    "name": "📀点歌音乐视频165页📀",
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&https://api.likepoems.com/img/mc/?cid=5"
+  },
+  {
+  "name": "💫歌星金曲MV💫",
+  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV.txt&&&https://api.uuz.bid/random/?cid=6"
+  },
+  {
+  "name": "👉MTV视频🌐全网音乐👈",
+  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV1.txt&&&https://api.horosama.com/random.php?cid=7"
+  },
+  {
+  "name": "🏮MTV频道🏮",
+  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%A2%91%E9%81%93.txt&&&https://www.5k5b.com/img/index.php?cid=8"
+  },
+  {
+  "name": "🚦MTV🚥⚪️欣赏频道⚪️🚦",
+  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E6%AC%A3%E8%B5%8F.txt&&&https://img.xjh.me/random_img.php?cid=9"
+  },
+  {
+  "name": "🔔DJ频道🔔",
+  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/DJ%E9%A2%91%E9%81%93.txt&&&https://singlemouse.cn/api/img.php?cid=10"
+  },
+  {
+  "name": "🔕DJ音乐MV🔕",
+  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV4.txt&&&https://singlemouse.cn/api/img-moblie.php?cid=11"
+  },
+  {
+  "name": "🔊DJ-MV歌曲🔊",
+  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV2.txt&&&https://imgapi.jinghuashang.cn/random?cid=12"
+  }
 ]
