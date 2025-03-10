@@ -25,11 +25,6 @@
   "img": "https://api.uuz.bid/random/"
   },
   {
-  "name": "歌星",
-  "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV.txt",
-  "img": "https://api.uuz.bid/random/"
-  },
-  {
   "name": "MTV视频全网音乐",
   "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV1.txt",
   "img": "https://api.horosama.com/random.php/"
