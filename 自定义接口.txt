@@ -26,8 +26,8 @@
             "filterable": 1,
             "ext": "https://codeberg.org/w1111/1/raw/branch/main/B/zx.js?type=url&params=https://codeberg.org/w1111/1/raw/branch/main/B/zx.txt"
         },
-        {"key":"JD经典","name":"🔴电视点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
-        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/DSDBO.json"},
+        {"key":"JD经典","name":"🔴电视点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd1.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
+        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd2.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/DSDBO.json"},
         {"key":"YYDBO","name":"🎵🎶音乐点播合集🎶🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/YYDBO.json"},
         {
 			"key":"bili",
