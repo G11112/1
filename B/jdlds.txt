@@ -1,6 +1,6 @@
 [
    {
-    "name": "济公游记",
+    "name": "游本昌济公",
     "url": "https://codeberg.org/w1111/1/raw/branch/main/A/jigyj.txt&&&https://bkimg.cdn.bcebos.com/pic/bd315c6034a85edf536474b849540923dc547545?cid=1"
    },
    {
