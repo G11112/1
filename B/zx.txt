@@ -17,12 +17,12 @@
   {
         "name": "电影轮播",
         "url": "https://codeberg.org/w1111/1/raw/branch/main/A/电影轮播.txt",
-        "img": "https://深色壁纸.xxooo.cf/"
+        "img": "https://api.likepoems.com/img/mc"
     },
   {
   "name": "MTV视频全网音乐",
   "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MV音乐合集.txt",
-  "img": "https://api.horosama.com/random.php/"
+  "img": "https://api.horosama.com/random.php"
   },
   {
     "name": "点歌音乐视频165页",
