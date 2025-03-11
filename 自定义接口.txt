@@ -15,10 +15,10 @@
       "filterable": 1,
       "ext": "https://codeberg.org/w1111/1/raw/branch/main/A/wnkj.json"
     },
-          {"key":"jdlds","name":"🔳经典老电视🔳","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdlds.txt"},
+          {"key":"jdlds","name":"📀老电视📀","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdlds.txt"},
           {
             "key": "zx",
-            "name": "📀经典老电视📀",
+            "name": "📺经典老电视📺",
             "type": 3,
             "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
             "searchable": 1,
@@ -26,7 +26,7 @@
             "filterable": 1,
             "ext": "https://codeberg.org/w1111/1/raw/branch/main/B/zx.js?type=url&params=https://codeberg.org/w1111/1/raw/branch/main/B/zx.txt"
         },
-        {"key":"JD经典","name":"📺经典老电视点播📺","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
+        {"key":"JD经典","name":"🔴电视点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
         {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/DSDBO.json"},
         {"key":"YYDBO","name":"🎵🎶音乐点播合集🎶🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/YYDBO.json"},
         {
