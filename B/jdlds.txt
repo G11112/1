@@ -17,11 +17,11 @@
     },
     {
         "name": "印度电影",
-        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/%E5%8D%B0%E5%BA%A6%F0%9F%87%AE%F0%9F%87%B3%E7%94%B5%E5%BD%B1.txt&&&https://深色壁纸.xxooo.cf/?cid=11"
+        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/%E5%8D%B0%E5%BA%A6%F0%9F%87%AE%F0%9F%87%B3%E7%94%B5%E5%BD%B1.txt&&&https://api.likepoems.com/img/bing/?cid=5"
     },
     {
     "name": "点歌音乐视频165页",
-    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&https://api.uuz.bid/random/?cid=5"
+    "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&https://api.uuz.bid/random/?cid=6"
   },
   {
   "name": "MTV视频全网音乐",
