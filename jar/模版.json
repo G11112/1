@@ -1,5 +1,5 @@
 {
-    "spider": ".https://codeberg.org/w1111/1/raw/branch/main/jar/pg2.jar",
+    "spider": ".https://codeberg.org/w1111/1/raw/branch/main/jar/pg.jar",
     "sites": [
         {
             "key": "wppz",
@@ -30,4 +30,5 @@
         "searchable":1,
         "changeable":1,
         "ext":"0$$$127.0.0.1:10073"
-        }]}
+        }
+    ],
