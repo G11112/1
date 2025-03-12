@@ -22,7 +22,7 @@
   {
   "name": "MTV视频全网音乐",
   "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MV音乐合集.txt",
-  "img": "https://codeberg.org/w1111/1/raw/branch/main/A/dstp.png"
+  "img": "https://codeberg.org/w1111/1/raw/branch/main/A/dstp.gif"
   },
   {
     "name": "点歌音乐视频165页",
