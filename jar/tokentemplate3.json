@@ -44,10 +44,23 @@
 "pikpak_proxy":"127.0.0.1:10071",
 "pikpak_proxy_onlyapi":true,
 "pikpak_danmu":false,
+"wgcf_key": "MDx0SyYkQRpshraiKYdP6SjeWqVYjG83LHrjjxFrKFw=",
+"wgcf_key2": "mEO42XlrAWoK6PO4CLgpNPmOElmmEvRB5KuCEOlrxGE=",
+"wgcf_ipport": "162.159.195.91:968",
+"wgcf_xray_url": ".https://codeberg.org/w1111/1/raw/branch/main/jar/xray.gz",
+"wgcf_geoip_url":".https://codeberg.org/w1111/1/raw/branch/main/jar/geoip.dat.gz",
+"wgcf_json_url": ".https://codeberg.org/w1111/1/raw/branch/main/jar/wgcf2.json",
+"wgcf_vless_id": "de44b044-8f90-4e18-b742-16591667ff96",
+"wgcf_vless_optname": "edgetunnel-free.pages.dev:443",
+"wgcf_vless_worker": "edgetunnel-free.pages.dev",
+"wgcf_vless_path": "/?ed=2048",
+"wgcf_vless_protocol": "vless",
+"wgcf_vless_network": "ws",
+"wgcf_vless_tls": true
 /*在线可配置
-"wgcf_xray_url":"./xray.gz",
-"wgcf_geoip_url":"./geoip.dat.gz",
-"wgcf_json_url":"./wgcf.json",*/
+"wgcf_xray_url":".https://codeberg.org/w1111/1/raw/branch/main/jar/xray.gz",
+"wgcf_geoip_url":".https://codeberg.org/w1111/1/raw/branch/main/jar/geoip.dat.gz",
+"wgcf_json_url":".https://codeberg.org/w1111/1/raw/branch/main/jar/wgcf2.json",*/
 "wgcf_key": "MDx0SyYkQRpshraiKYdP6SjeWqVYjG83LHrjjxFrKFw=",
 "wgcf_key2": "mEO42XlrAWoK6PO4CLgpNPmOElmmEvRB5KuCEOlrxGE=",
 "wgcf_ipport": "162.159.195.91:968",
