@@ -1,14 +1,14 @@
 {
-    "spider": "./pg.jar",
+    "spider": ".https://codeberg.org/w1111/1/raw/branch/main/jar/pg2.jar",
     "sites": [
         {
-            "key": "网盘配置",
+            "key": "wppz",
             "name": "网盘及彈幕配置",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./tokentemplate.json"
+            "ext": ".https://codeberg.org/w1111/1/raw/branch/main/jar/tokentemplate2.json"
         },
         {"key":"haiwaikan","name":"海外看","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=127.0.0.1:10073&url=","type":1,"style":{"type":"rect","ratio":1.485},"api": "http://127.0.0.1:10079/p/0/127.0.0.1:10073/http://api.haiwaikan.com/v1/vod?ac=list","categories":["纪录片","冒险片","剧情片","动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","犯罪片","科幻片","经典片","网络电影","战争片","欧美剧","日剧","韩剧","国产剧","泰剧","港剧","台剧","新马剧","其他剧","欧美综艺","日本综艺","韩国综艺","国产综艺","新马泰综艺","港台综艺","其他综艺","欧美动漫","日本动漫","韩国动漫","国产动漫","新马泰动漫","港台动漫","其他动漫"]
         },

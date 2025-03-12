@@ -1,5 +1,5 @@
 {
-    "spider": "http://666.ewwe.gq/xiaolinshao/linshao/main/代理/pg.jar",
+    "spider": "https://codeberg.org/w1111/1/raw/branch/main/jar/pg.jar",
     "sites": [
         {
             "key": "内置代理样板",
@@ -12,5 +12,5 @@
       {
         "url": "http://666.ewwe.gq/xiaolinshao/linshao/main/代理/样版.zip ",
         "icon": "http://666.ewwe.gq/xiaolinshao/linshao/main/代理/icon.png",
-        "copy":"file://Download/模版.json"
+        "copy":"file:https://codeberg.org/w1111/1/raw/branch/main/jar/模版.json"
       }]}]}]}
