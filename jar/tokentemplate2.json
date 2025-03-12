@@ -1,0 +1,269 @@
+{
+"use_internal_storage":false,
+"token":"",
+"open_token":"",
+"open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
+"oauth_client_id":"",
+"oauth_client_secret":"",
+"oauth_auth_url":"",
+"oauth_refresh_url":"",
+"thread_limit":32,
+"is_vip":true,
+"vip_thread_limit":10,
+"vod_flags":"4kz|auto",
+"quark_thread_limit":32,
+"quark_is_vip":false,
+"quark_vip_thread_limit":32,
+"quark_flags":"4kz|auto",
+"uc_thread_limit":0,
+"uc_is_vip":false,
+"uc_vip_thread_limit":0,
+"uc_flags":"4kz|auto",
+"thunder_thread_limit":2,
+"thunder_is_vip":false,
+"thunder_vip_thread_limit":2,
+"thunder_flags":"4k|4kz|auto",
+"aliproxy":"",
+"aliproxy_url":"",
+"proxy":"",
+"danmu":true,
+"quark_danmu":true,
+"quark_cookie":"",
+"uc_cookie":"",
+"thunder_username":"",
+"thunder_password":"",
+"thunder_captchatoken":"",
+"yd_auth":"",
+"yd_thread_limit":4,
+"yd_flags":"auto|4kz",
+"yd_danmu":true,
+"pikpak_username":"",
+"pikpak_password":"",
+"pikpak_flags":"4k|auto",
+"pikpak_thread_limit":2,
+"pikpak_vip_thread_limit":2,
+"pikpak_proxy":"",
+"pikpak_proxy_onlyapi":false,
+"pikpak_danmu":true,
+"wgcf_key": "MDx0SyYkQRpshraiKYdP6SjeWqVYjG83LHrjjxFrKFw=",
+"wgcf_key2": "mEO42XlrAWoK6PO4CLgpNPmOElmmEvRB5KuCEOlrxGE=",
+"wgcf_ipport": "162.159.195.91:968",
+"wgcf_xray_url": "./xray.gz",
+"wgcf_geoip_url":"./geoip.dat.gz",
+"wgcf_json_url": "./wgcf.json",
+"wgcf_vless_id": "de44b044-8f90-4e18-b742-16591667ff96",
+"wgcf_vless_optname": "edgetunnel-free.pages.dev:443",
+"wgcf_vless_worker": "edgetunnel-free.pages.dev",
+"wgcf_vless_path": "/?ed=2048",
+"wgcf_vless_protocol": "vless",
+"wgcf_vless_network": "ws",
+"wgcf_vless_tls": true
+/*精选域名:
+174.584 ms：www.digitalocean.com
+174.990 ms：download.yunzhongzhuan.com
+178.915 ms：time.cloudflare.com
+179.289 ms：www.4chan.org
+179.383 ms：fbi.gov
+179.793 ms：www.csgo.com
+186.919 ms：www.visa.com.hk
+188.046 ms：www.gov.se
+194.720 ms：www.visa.co.jp
+203.646 ms：gur.gov.ua
+203.730 ms：www.baipiao.eu.org
+204.123 ms：www.visa.com.sg
+206.026 ms：www.visakorea.com
+210.325 ms：log.bpminecraft.com
+212.874 ms：www.boba88slot.com
+218.636 ms：www.iakeys.com
+219.132 ms：www.glassdoor.com
+222.217 ms：www.ipget.net
+228.284 ms：www.gov.ua
+230.455 ms：www.zsu.gov.ua
+235.575 ms：www.hugedomains.com
+237.324 ms：malaysia.com
+244.134 ms：skk.moe
+245.100 ms：edtunnel-dgp.pages.dev
+246.721 ms：iplocation.io
+246.894 ms：ip.sb
+248.627 ms：www.visa.com.tw
+252.214 ms：www.iplocation.net
+257.162 ms：singapore.com
+258.724 ms：japan.com
+261.829 ms：www.ipchicken.com
+264.127 ms：time.is
+264.767 ms：www.whatismyip.com
+271.182 ms：www.whoer.net
+275.087 ms：www.wto.org
+278.449 ms：www.gco.gov.qa
+281.309 ms：www.pcmag.com
+285.170 ms：www.who.int
+286.766 ms：www.okcupid.com
+288.622 ms：www.udacity.com
+288.933 ms：russia.com
+293.187 ms：alejandracaiccedo.com
+301.719 ms：cdn.anycast.eu.org
+309.258 ms：icook.tw
+311.515 ms：www.udemy.com
+358.926 ms：whatismyipaddress.com
+398.630 ms：www.shopify.com
+485.368 ms：www.visa.com
+
+cdn域名
+time.cloudflare.com
+shopify.com
+time.is
+icook.hk
+icook.tw
+ip.sb
+japan.com
+malaysia.com
+russia.com
+singapore.com
+skk.moe
+www.visa.com
+www.visa.com.sg
+www.visa.com.hk
+www.visa.com.tw
+www.visa.co.jp
+www.visakorea.com
+www.gco.gov.qa
+www.gov.se
+www.gov.ua
+www.digitalocean.com
+www.csgo.com
+www.shopify.com
+www.whoer.net
+www.whatismyip.com
+www.ipget.net
+www.hugedomains.com
+www.udacity.com
+www.4chan.org
+www.okcupid.com
+www.glassdoor.com
+www.udemy.com
+alejandracaiccedo.com
+nc.gocada.co
+log.bpminecraft.com
+www.boba88slot.com
+gur.gov.ua
+www.zsu.gov.ua
+www.iakeys.com
+www.d-555.com
+fbi.gov
+mimg.0c1q0l.cn",
+www.googletagmanager.com",
+www.google-analytics.com",
+mc.usihnbcq.cn",
+mg.g1mm3d.cn",
+mscs.svaeuzh.cn",
+cnzz.hhttm.top",
+tp.vinuxhome.com",
+cnzz.mmstat.com",
+www.baihuillq.com",
+s23.cnzz.com",
+z3.cnzz.com",
+c.cnzz.com",
+stj.v1vo.top
+z12.cnzz.com",
+img.mosflower.cn",
+tips.gamevvip.com",
+ehwe.yhdtns.com",
+xdn.cqqc3.com",
+www.jixunkyy.cn",
+sp.chemacid.cn",
+hm.baidu.com",
+s9.cnzz.com",
+z6.cnzz.com",
+um.cavuc.com",
+mav.mavuz.com",
+wofwk.aoidf3.com",
+z5.cnzz.com",
+xc.hubeijieshikj.cn",
+tj.tianwenhu.com",
+xg.gars57.cn",
+k.jinxiuzhilv.com",
+cdn.bootcss.com",
+ppl.xunzhuo123.com",
+xomk.jiangjunmh.top
+img.xunzhuo123.com",
+z1.cnzz.com",
+s13.cnzz.com",
+xg.huataisangao.cn",
+z7.cnzz.com",
+xg.huataisangao.cn",
+z2.cnzz.com",
+s96.cnzz.com",
+q11.cnzz.com",
+thy.dacedsfa.cn",
+xg.whsbpw.cn",
+s19.cnzz.com",
+z8.cnzz.com",
+s4.cnzz.com",
+f5w.as12df.top",
+ae01.alicdn.com",
+www.92424.cn",
+k.wudejia.com",
+vivovip.mmszxc.top",
+qiu.xixiqiu.com",
+cdnjs.hnfenxun.com",
+cms.qdwght.com",
+api.htpan.net",
+
+如果走10072，
+需要指定80，2082等cf的非tls端口来裸奔。
+
+如果走10074，
+建议使用443端口获得最大优化，
+
+支持通用端口 80 8080 8880 2052 2082 2086 2095
+
+Cloudflare 支持的 HTTP 端口：
+
+80
+8080
+8880
+2052
+2082
+2086
+2095
+Cloudflare 支持的 HTTPS 端口：
+
+443
+2053
+2083
+2087
+2096
+8443
+
+模版:
+    "pikpak_proxy": "socks5://127.0.0.1:10074",
+    "pikpak_proxy_onlyapi": false,
+    "pikpak_danmu": true,
+    "wgcf_key": "MDx0SyYkQRpshraiKYdP6SjeWqVYjG83LHrjjxFrKFw=",
+    "wgcf_key2": "mEO42XlrAWoK6PO4CLgpNPmOElmmEvRB5KuCEOlrxGE=",
+    "wgcf_ipport": "162.159.195.199:8742",
+    "wgcf_xray_url": "./xray.gz",
+    "wgcf_json_url": "./wgcf.json",
+    "wgcf_vless_id": "de44b044-8f90-4e18-b742-16591667ff96",
+    "wgcf_vless_optname": "118.193.35.29:443",
+    "wgcf_vless_worker": "edgetunnel-free.pages.dev",
+    "wgcf_vless_path": "/?ed=2048",
+    "wgcf_vless_protocol": "vless",
+    "wgcf_vless_network": "ws",
+    "wgcf_vless_tls": true
+
+模版解释:
+"wgcf_key":"私钥1",
+"wgcf_key2":"私钥2",
+"wgcf_ipport":"优选节点:端口",
+"wgcf_xray_url":"./xray.gz",
+"wgcf_json_url":"./wgcf.json",
+"wgcf_vless_id":"节点uuid",
+"wgcf_vless_optname":"workers域名或者优选ip:端口",
+"wgcf_vless_worker":"workers域名",
+"wgcf_vless_path":"/?ed=2048", websocket路径
+"wgcf_vless_protocol":"vless", vless/vmess
+"wgcf_vless_network":"ws",  传输协议
+"wgcf_vless_tls":false 传输层加密与否
+*/
+}
