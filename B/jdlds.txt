@@ -13,7 +13,7 @@
     },
     {
         "name": "电影轮播",
-        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/电影轮播.txt&&&https://codeberg.org/w1111/1/raw/branch/main/A/dstp.png?cid=4"
+        "url": "https://codeberg.org/w1111/1/raw/branch/main/A/电影轮播.txt&&&https://codeberg.org/w1111/1/raw/branch/main/A/logo-gif.txt?cid=4"
     },
     {
   "name": "MTV视频全网音乐",
