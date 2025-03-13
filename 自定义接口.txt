@@ -2,7 +2,7 @@
  "spider": "https://codeberg.org/w1111/1/raw/branch/main/jar/pg.jar",
  "userName":"hewei","password":"2730006208","type":"webdav",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo":"https://i.pinimg.com/originals/1c/11/65/1c11657730eb65bcf2519cf5af7a34ea.gif",
+  "logo":"https://i.gifer.com/fxVE.gif",
             "sites": [
         {
             "key": "wppz",
