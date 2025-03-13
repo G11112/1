@@ -2,8 +2,7 @@
 "class":[{"type_id":"","type_name":"在线点播"}],
 "list":[
 {"vod_id":"vodlistnew","vod_name":"【网友收藏合集】3",
-"ext": "https://git.acwing.com/w770/1/-/raw/main/B/zx.js?type=url&params=https://git.acwing.com/w770/1/-/raw/main/B/zx.txt",
-"vod_remarks":"网友收藏合集","vod_pic":"http://134.122.136.54:8510/thumb/20250224/e27734f9/7203.jpg"},
+"vod_ext":"https://git.acwing.com/w770/1/-/raw/main/B/zx.js?type=url&params=https://git.acwing.com/w770/1/-/raw/main/B/zx.txt","vod_remarks":"网友收藏合集","vod_pic":"http://134.122.136.54:8510/thumb/20250224/e27734f9/7203.jpg"},
 {"vod_name":"吸血鬼检察官","vod_remarks":"吉高由里子","vod_pic":"https://images2.gamme.com.tw/news2/2012/21/48/p5_aoqaXkqWW.jpg"},
 
 
