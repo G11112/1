@@ -1,5 +1,5 @@
 {
- "spider": "http://110.42.41.38:888/lib/pg.jar",
+ "spider": "https://git.acwing.com/w770/1/-/raw/main/jar/pg.jar",
  "userName": "hewei","password":"2730006208","type": "webdav",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo":"https://i.gifer.com/9xDF.gif",
