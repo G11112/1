@@ -1,9 +1,25 @@
 {
 "class":[{"type_id":"","type_name":"在线点播"}],
 "list":[
-{"vod_id":"vodlistnew","vod_name":"【网友收藏合集】3",
-"vod_ext":"https://git.acwing.com/w770/1/-/raw/main/B/zx.js?type=url&params=https://git.acwing.com/w770/1/-/raw/main/B/zx.txt","vod_remarks":"网友收藏合集","vod_pic":"http://134.122.136.54:8510/thumb/20250224/e27734f9/7203.jpg"},
-{"vod_name":"吸血鬼检察官","vod_remarks":"吉高由里子","vod_pic":"https://images2.gamme.com.tw/news2/2012/21/48/p5_aoqaXkqWW.jpg"},
+{"type_id":"Mdoucontent",
+"vod_name":"【东南private系列合集】1",
+"vod_remarks":"【东南private系列合集】1","vod_pic":"http://134.122.136.54:8510/thumb/20250102/bc4a4ecd/7062.jpg"},
+{"vod_id":"","vod_name":"【东南private系列合集】2",
+"vod_remarks":"【东南private系列合集】2","vod_pic":"http://134.122.136.54:8510/thumb/20250102/5c3c95f2/7063.jpg"},
+{"vod_id":"","vod_name":"【东南private系列合集】3",
+"vod_remarks":"【东南private系列合集】3","vod_pic":"http://134.122.136.54:8510/thumb/20250102/f8be30a2/7072.jpg"},
+{"vod_id":"vodlistnew","vod_name":"【东南private系列合集】4",
+"vod_remarks":"【东南private系列合集】4","vod_pic":"http://134.122.136.54:8510/thumb/20250102/a8870adb/7073.jpg"},
+{"vod_id":"vodlistnew","vod_name":"【东南private系列合集】5",
+"vod_remarks":"【东南private系列合集】5","vod_pic":"http://134.122.136.54:8510/thumb/20250102/15c66b3a/7075.jpg"},
+{"vod_id":"vodlistnew","vod_name":"【东南private系列合集】6",
+"vod_remarks":"【东南private系列合集】6","vod_pic":"http://134.122.136.54:8510/thumb/20250102/236b183f/7080.jpg"},
+{"vod_id":"vodlistnew","vod_name":"【东南private系列合集】7",
+"vod_remarks":"【东南private系列合集】7","vod_pic":"http://134.122.136.54:8510/thumb/20250102/e1bae05a/7081.jpg"},
+{"vod_id":"vodlistnew","vod_name":"【东南private系列合集】8",
+"vod_remarks":"【东南private系列合集】8","vod_pic":"http://134.122.136.54:8510/thumb/20250102/c2d9758e/7082.jpg"},
+{"vod_id":"vodlistnew","vod_name":"【东南private系列合集】9",
+"vod_remarks":"【东南private系列合集】9","vod_pic":"http://134.122.136.54:8510/thumb/20250102/3ce841c4/7084.jpg"},
 
 
 {"vod_name":"","vod_remarks":"","vod_pic":""}
