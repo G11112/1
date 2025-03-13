@@ -13,7 +13,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-           "ext": "https://codeberg.org/w1111/1/raw/branch/main/A/wnkj.json"
+           "ext": "https://git.acwing.com/w770/1/-/raw/main/A/wnkj.json"
         },
         {
             "key": "wppz",
@@ -22,7 +22,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": ".https://codeberg.org/w1111/1/raw/branch/main/jar/tokentemplate2.json"
+            "ext": ".https://git.acwing.com/w770/1/-/raw/main/jar/tokentemplate2.json"
         },
         {
             "key": "网盘配置",
@@ -31,13 +31,13 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://codeberg.org/w1111/1/raw/branch/main/jar/tokenm.json",
+            "ext": "https://git.acwing.com/w770/1/-/raw/main/jar/tokenm.json",
             "style": {
             "type": "rect",
             "ratio": 1.5
             }
         },
-        {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdlds.txt"},
+        {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://git.acwing.com/w770/1/-/raw/main/B/jdlds.txt"},
         {
             "key": "zx",
             "name": "📺经典在线📺",
@@ -46,11 +46,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/w1111/1/raw/branch/main/B/zx.js?type=url&params=https://codeberg.org/w1111/1/raw/branch/main/B/zx.txt"
+            "ext": "https://git.acwing.com/w770/1/-/raw/main/B/zx.js?type=url&params=https://git.acwing.com/w770/1/-/raw/main/B/zx.txt"
         },
-        {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd1.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
-        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd2.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/DSDBO.json"},
-        {"key":"YYDBO","name":"🎵🎶音乐点播合集🎶🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/YYDBO.json"},
+        {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://git.acwing.com/w770/1/-/raw/main/B/jd1.js","searchable":1,"changeable":1,"ext":"https://git.acwing.com/w770/1/-/raw/main/B/JD.json"},
+        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://git.acwing.com/w770/1/-/raw/main/B/jd2.js","searchable":1,"changeable":1,"ext":"https://git.acwing.com/w770/1/-/raw/main/B/DSDBO.json"},
+        {"key":"YYDBO","name":"🎵🎶音乐点播合集🎶🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://git.acwing.com/w770/1/-/raw/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://git.acwing.com/w770/1/-/raw/main/B/YYDBO.json"},
         {
 			"key":"bili",
 			"name":"🅱️B站|Bili",
@@ -1434,7 +1434,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/w1111/1/raw/branch/main/jar/tokenm.json"
+            "ext": "https://git.acwing.com/w770/1/-/raw/main/jar/tokenm.json"
         },
         {
             "key": "push_agent",
@@ -1446,21 +1446,21 @@
             "ext": "http://110.42.41.38:888/lib/tokenm.json"
         }
     ],
-   "lives": [{"name":"📀直播1📀","type":0,"url":"https://codeberg.org/w1111/1/raw/branch/main/A/ZBTV.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
+   "lives": [{"name":"📀直播1📀","type":0,"url":"https://git.acwing.com/w770/1/-/raw/main/A/ZBTV.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
         {
             "name": "📺直播2",
             "type": 0,
-            "url": "https://codeberg.org/w1111/1/raw/branch/main/A/TV1.txt",
+            "url": "https://git.acwing.com/w770/1/-/raw/main/A/TV1.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "📺直播3",
             "type": 0,
-            "url": "https://codeberg.org/w1111/1/raw/branch/main/A/TV2.txt",
+            "url": "https://git.acwing.com/w770/1/-/raw/main/A/TV2.txt",
             "ua": "okhttp/3.15"
         },
-        {"name": "📀点歌MTV📀","type": 0,"url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+        {"name": "📀点歌MTV📀","type": 0,"url": "https://git.acwing.com/w770/1/-/raw/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
