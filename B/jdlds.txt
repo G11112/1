@@ -16,7 +16,7 @@
         "url": "https://git.acwing.com/w770/1/-/raw/main/A/电影轮播.txt&&&https://git.acwing.com/w770/1/-/raw/main/A/002.png?cid=4"
     },
     {
-  "name": "MTV视频全网音乐",
+  "name": "MTV音乐合集",
   "url": "https://git.acwing.com/w770/1/-/raw/main/A/MV音乐合集.txt&&&https://cdn.pixabay.com/photo/2013/07/12/18/31/beat-153442_1280.png?cid=5"
   },
     {
