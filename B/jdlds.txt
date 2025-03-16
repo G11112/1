@@ -16,11 +16,11 @@
         "url": "https://codeberg.org/w1111/1/raw/branch/main/A/电影轮播.txt&&&https://codeberg.org/w1111/1/raw/branch/main/A/002.png?cid=4"
     },
     {
-  "name": "MTV视频全网音乐",
+  "name": "MTV音乐合集",
   "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MV音乐合集.txt&&&https://cdn.pixabay.com/photo/2013/07/12/18/31/beat-153442_1280.png?cid=5"
   },
     {
-    "name": "点歌音乐视频165页",
+    "name": "点歌音乐",
     "url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&https://codeberg.org/w1111/1/raw/branch/main/A/yydbhj.jpg?cid=6"
   }
 ]
