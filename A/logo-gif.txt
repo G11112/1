@@ -1,5 +1,0 @@
-{
-    "logo":"https://cre8math.com/wp-content/uploads/2017/09/gif.gif"
-  }
-  ]
-}
