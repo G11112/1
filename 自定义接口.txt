@@ -18,16 +18,6 @@
             "filterable": 1,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.js?type=url&params=https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.txt"
           },
-          {
-      "key": "直播转点播",
-      "name": "📺︎┃电视┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/wanda/4k/-/raw/main/js/zbzdb.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
-    },
           {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://codeberg.org/xycjf/tv/raw/branch/main/zbzdb.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/jdlds.txt"},
         {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/jd1.js","searchable": 1,
       "quickSearch": 1,
