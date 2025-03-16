@@ -1,7 +1,7 @@
 ﻿{
  "spider": "http://110.42.41.38:888/lib/pg.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "https://codeberg.org/w1111/1/raw/commit/a388ccf71b2fd84a1f0f25db6bc6cceeb66110e9/GIF/03.gif",
+  "logo": "https://codeberg.org/w1111/1/raw/commit/a388ccf71b2fd84a1f0f25db6bc6cceeb66110e9/GIF/7.gif",
 "lives":[{"name":"📀直播1📀","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/ZBTV.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
         {
             "name": "📺直播2",
