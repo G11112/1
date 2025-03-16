@@ -2,28 +2,28 @@
  "spider": "http://110.42.41.38:888/lib/pg.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://codeberg.org/w1111/1/raw/commit/a388ccf71b2fd84a1f0f25db6bc6cceeb66110e9/GIF/03.gif",
-"lives":[{"name":"📀直播1📀","type":0,"url":"https://codeberg.org/w1111/1/raw/branch/main/A/ZBTV.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
+"lives":[{"name":"📀直播1📀","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/ZBTV.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
         {
             "name": "📺直播2",
             "type": 0,
-            "url": "https://codeberg.org/w1111/1/raw/branch/main/A/TV1.txt",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV1.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "📺直播3",
             "type": 0,
-            "url": "https://codeberg.org/w1111/1/raw/branch/main/A/TV2.txt",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV2.txt",
             "ua": "okhttp/3.15"
         },
-        {"name": "📀点歌MTV📀","type": 0,"url": "https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+        {"name": "📀点歌MTV📀","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
 "categories":["韩国综艺","日韩综艺","韩国剧","韩剧","日韩剧","电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日本剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],
 
 "sites": [
 //在线直播转点播❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
-    {"key":"csp","name":"📺电视直播","type":3,"api":"csp_Live2Vod","jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;9f391d889e28d3c40092fabb562f408c","searchable":0,"ext":"🔴直播🔴1$https://codeberg.org/w1111/1/raw/branch/main/A/TV1.txt#🟢直播2🟢$https://codeberg.org/w1111/1/raw/branch/main/A/ZBTV.txt#🔵直播3🔵$https://codeberg.org/w1111/1/raw/branch/main/A/TV2.txt#🎵点歌音乐合集🎵$https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&http://74.120.175.78/JK/api/bg/"},
+    {"key":"csp","name":"📺电视直播","type":3,"api":"csp_Live2Vod","jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;9f391d889e28d3c40092fabb562f408c","searchable":0,"ext":"🔴直播🔴1$https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV1.txt#🟢直播2🟢$https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/ZBTV.txt#🔵直播3🔵$https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV2.txt#🎵点歌音乐合集🎵$https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&http://74.120.175.78/JK/api/bg/"},
     {
             "key": "zx",
             "name": "📺经典在线📺",
@@ -32,12 +32,12 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/w1111/1/raw/branch/main/B/zx.js?type=url&params=https://codeberg.org/w1111/1/raw/branch/main/B/zx.txt"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.js?type=url&params=https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.txt"
           },
-          {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdlds.txt"},
-        {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd1.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
-        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd2.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/DSDBO.json"},
-        {"key":"YYDBO","name":"🎶点歌音乐合集🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/YYDBO.json"},
+          {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/jdlds.txt"},
+        {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/jd1.js","searchable":1,"changeable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/JD.json"},
+        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/jd2.js","searchable":1,"changeable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/DSDBO.json"},
+        {"key":"YYDBO","name":"🎶点歌音乐合集🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/YYDBO.json"},
         {"key":"kq","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/kuqimv.json"},
         {
       "key": "酷奇",
@@ -80,7 +80,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": ".https://codeberg.org/w1111/1/raw/branch/main/jar/tokentemplate2.json"
+            "ext": ".https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/jar/tokentemplate2.json"
         },
         {
             "key": "网盘配置",
@@ -89,7 +89,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://codeberg.org/w1111/1/raw/branch/main/jar/tokenm.json",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/jar/tokenm.json",
             "style": {
             "type": "rect",
             "ratio": 1.5
@@ -109,7 +109,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-           "ext": "https://codeberg.org/w1111/1/raw/branch/main/A/wnkj.json"
+           "ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/wnkj.json"
         },
         {"key": "暴风采集","name": "🌪️暴风影音","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": [  "福利",
  "理论片",  "国产剧",  "国产动漫",  "动作片",  "科幻片",  "剧情片",  "喜剧片",  "爱情片",  "恐怖片",  "战争片",  "香港剧",  "台湾剧",  "日本剧",  "欧美剧",  "泰国剧",  "日本动漫",  "综艺频道",  "大陆综艺",  "港台综艺",  "日本综艺",  "新马泰综艺",  "纪录片"]
@@ -1533,7 +1533,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/w1111/1/raw/branch/main/jar/tokenm.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/jar/tokenm.json"
         },
         {
             "key": "push_agent",
