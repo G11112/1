@@ -2,43 +2,13 @@
  "spider": "http://110.42.41.38:888/lib/pg.jar",
  "userName": "hewei","password":"2730006208","type": "webdav",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo":"https://i.gifer.com/9xDF.gif",
+  "logo":"https://codeberg.org/w1111/1/raw/branch/main/GIF/logo10.gif",
   "sites": [
-        {
-            "key": "豆瓣",
-            "name": "🎯豆瓣推荐",
-            "type": 3,
-            "api": "csp_Douban",
-            "jar": "https://tv.xn--11x555b.top/4K/jar/xhpmd.jar",
-            "searchable": 1,
-            "quickSearch": 0,
+        {"key":"csp","name":"📺电视直播","type":3,"api":"csp_Live2Vod","searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
-           "ext": "https://codeberg.org/w1111/1/raw/branch/main/A/wnkj.json"
-        },
-        {
-            "key": "wppz",
-            "name": "网盘及彈幕配置",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": ".https://codeberg.org/w1111/1/raw/branch/main/jar/tokentemplate2.json"
-        },
-        {
-            "key": "网盘配置",
-            "name": "🛠 PG*配置中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://codeberg.org/w1111/1/raw/branch/main/jar/tokenm.json",
-            "style": {
-            "type": "rect",
-            "ratio": 1.5
-            }
-        },
-        {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdlds.txt"},
-        {
+            "changeable":1,"jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;9f391d889e28d3c40092fabb562f408c","ext":"🔴直播🔴1$https://codeberg.org/w1111/1/raw/branch/main/A/TV1.txt#🟢直播2🟢$https://codeberg.org/w1111/1/raw/branch/main/A/ZBTV.txt#🔵直播3🔵$https://codeberg.org/w1111/1/raw/branch/main/A/TV2.txt#🎵点歌音乐合集🎵$https://codeberg.org/w1111/1/raw/branch/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&http://74.120.175.78/JK/api/bg/"},
+    {
             "key": "zx",
             "name": "📺经典在线📺",
             "type": 3,
@@ -47,10 +17,162 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/w1111/1/raw/branch/main/B/zx.js?type=url&params=https://codeberg.org/w1111/1/raw/branch/main/B/zx.txt"
+          },
+          {
+      "key": "直播转点播",
+      "name": "📺︎┃电视┃直播",
+      "type": 3,
+      "api": "https://jihulab.com/wanda/4k/-/raw/main/js/zbzdb.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
+    },
+          {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://codeberg.org/xycjf/tv/raw/branch/main/zbzdb.js","ext":"https://codeberg.org/w1111/1/raw/branch/main/B/jdlds.txt"},
+        {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd1.js","searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
+        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd2.js","searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/DSDBO.json"},
+        {"key":"YYDBO","name":"🎶点歌音乐合集🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/YYDBO.json"},
+        {"key":"kq","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/kuqimv.json"},
+        {
+      "key": "酷奇",
+      "name": "🎤酷奇┃MV",
+      "type": 3,
+      "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
+      "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+        {
+			"key": "Yinyuetai",
+			"name": "💽音悦台MV💽",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
+		},
+        {
+            "key": "MTV合集",
+            "name": "MTV合集",
+            "type": 1,
+            "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
-        {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd1.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/JD.json"},
-        {"key":"DSDBO","name":"📡IPTV在线直播📡","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd2.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/DSDBO.json"},
-        {"key":"YYDBO","name":"🎵🎶音乐点播合集🎶🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://codeberg.org/w1111/1/raw/branch/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/w1111/1/raw/branch/main/B/YYDBO.json"},
+        {
+            "key": "豆瓣",
+            "name": "🎯豆瓣推荐",
+            "type": 3,
+            "api": "csp_Douban",
+            "jar": "https://tv.xn--11x555b.top/4K/jar/xhpmd.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+           "ext": "https://codeberg.org/w1111/1/raw/branch/main/A/wnkj.json"
+        },
+{"key": "Wexokconfig","name": "㊙️配置中心㊙️","type": 3,"api": "csp_WexokconfigGuard","searchable": 0,"changeable": 0,"indexs": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt;md5;b2c4ec623fdb1f2e25327581f850d560"},
+{"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable": 0,"changeable": 0,"indexs": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key": "Wexconfig","name": "㊙️通用配置中心㊙️","type": 3,"api": "csp_WexconfigGuard","searchable": 0,"changeable": 0,"indexs": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt;md5;b2c4ec623fdb1f2e25327581f850d560"},
+{"key": "Wexokconfig","name": "🐮影视配置中心🐮","type": 3,"api": "csp_WexokconfigGuard","searchable": 0,"changeable": 0,"indexs": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt;md5;b2c4ec623fdb1f2e25327581f850d560"},
+        {
+            "key": "wppz",
+            "name": "网盘及彈幕配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "searchable": 1,
+            "ext": ".https://codeberg.org/w1111/1/raw/branch/main/jar/tokentemplate2.json"
+        },
+        {
+            "key": "网盘配置",
+            "name": "🛠 PG*配置中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://codeberg.org/w1111/1/raw/branch/main/jar/tokenm.json",
+            "style": {
+            "type": "rect",
+            "ratio": 1.5
+            }
+        },
+        {"key": "暴风采集","name": "🌪️暴风影音","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": [  "福利",
+ "理论片",  "国产剧",  "国产动漫",  "动作片",  "科幻片",  "剧情片",  "喜剧片",  "爱情片",  "恐怖片",  "战争片",  "香港剧",  "台湾剧",  "日本剧",  "欧美剧",  "泰国剧",  "日本动漫",  "综艺频道",  "大陆综艺",  "港台综艺",  "日本综艺",  "新马泰综艺",  "纪录片"]
+    },
+        {
+      "key": "cjzy_暴风资源",
+      "name": "🎈┃暴风┃",
+      "type": 1,
+      "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "categories": [
+        "福利",
+        "理论片",
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道",
+        "新马泰综艺",
+        "纪录片",
+        "科幻片",
+        "喜剧片",
+        "战争片"
+      ]
+    },
+        {
+      "key": "cjzy",
+      "name": "🎈┃暴风2┃",
+      "type": 1,
+      "api": "https://app.bfzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "categories": [
+        "福利",
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道",
+        "新马泰综艺",
+        "纪录片",
+        "科幻片",
+        "喜剧片",
+        "战争片"
+      ]
+    },
         {
 			"key":"bili",
 			"name":"🅱️B站|Bili",
@@ -132,25 +254,6 @@
             "searchable": 1,
             "quickSearch": 1
         },
-        {
-			"key": "Yinyuetai",
-			"name": "💽音悦台MV💽",
-			"type": 3,
-			"api": "csp_Yinyuetai",
-			"searchable": 1,
-			"changeable": 0
-		},
-        {
-            "key": "MTV合集",
-            "name": "MTV合集",
-            "type": 1,
-            "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {"key":"kq","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/kuqimv.json"},  
         {
             "key": "zy_金鹰资源",
             "name": "🔰金鹰.云播",
