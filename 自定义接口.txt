@@ -2,7 +2,7 @@
  "spider": "http://110.42.41.38:888/lib/pg.jar",
  "userName": "hewei","password":"2730006208","type": "webdav",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo":"https://codeberg.org/w1111/1/raw/commit/a388ccf71b2fd84a1f0f25db6bc6cceeb66110e9/GIF/24.gif",
+  "logo":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/main/GIF/24.gif",
   "sites": [
         {"key":"csp","name":"📺电视直播","type":3,           "api":"csp_Live2Vod","searchable": 1,
             "quickSearch": 1,
