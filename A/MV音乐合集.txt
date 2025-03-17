@@ -78,7 +78,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 一首《爱一回错一回》DJ版,https://vd4.bdstatic.com/mda-mbim69siwwsgwp7d/v1-cae/1080p/mda-mbim69siwwsgwp7d.mp4
 一首伤感歌曲,https://vd3.bdstatic.com/mda-nbr5d212a9mkb4vp/cae_h264_delogo/1645848373794241498/mda-nbr5d212a9mkb4vp.mp4
 英雄泪,https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
-音乐·内地,#genre#
+音乐-内地,#genre#
 杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
 杨钰莹-轻轻告诉你,http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
 杨钰莹-红彤彤的春天,http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
@@ -345,7 +345,7 @@ ADELE-make you feel my love,http://em.21dtv.com/songs/60067940.mkv
 郑璐-让青春激扬(演),http://em.21dtv.com/songs/60099540.mkv
 赵薇+黄渤+佟大为+郝蕾+张译-亲爱的小孩,http://em.21dtv.com/songs/60104458.mkv
 张秀卿车站,http://vd2.bdstatic.com/mda-jjmnjgiabtvmy13u/sc/mda-jjmnjgiabtvmy13u.mp4
-音乐·港台,#genre#
+音乐-港台,#genre#
 张信哲-亲爱的小孩,http://em.21dtv.com/songs/60119496.mkv
 张伟文-逝去的诺言,http://em.21dtv.com/songs/60039552.mkv
 张伟文-故乡的雨,http://em.21dtv.com/songs/60019096.mkv
@@ -3685,7 +3685,7 @@ freeloop-天然卷夏祭,https://vd3.bdstatic.com/mda-pb6cmxqdpjh7p1a4/sc/cae_h2
 龚淑均+丁少华-清风来过,http://em.21dtv.com/songs/60144247.mkv
 龚玥-秋风凉想亲娘,http://em.21dtv.com/songs/60146909.mkv
 龚琳娜-将界,http://em.21dtv.com/songs/60138331.mkv
-音乐·DJ,#genre#
+音乐-DJ,#genre#
 dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4Mjc4MV83MDE2MTEwMjY1Ml8yXzM=_b_B977559109a6b2bec30b01e11d458d398.mp4
 DJ《等爱》,https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4
 DJ《我们不再是从前》,https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4
@@ -3966,7 +3966,7 @@ DJ打碟 Amy Wiles,https://vd2.bdstatic.com/mda-kkdf3jba9fsp4hr2/v1-cae/sc/mda-k
 DJ打碟Toquinho,https://vd4.bdstatic.com/mda-ncn8353qdj4250ga/sc/cae_h264_delogo/1648019138180108259/mda-ncn8353qdj4250ga.mp4?v_from_s=hkapp-haokan-nanjing&amp;auth_key=1660565393-0-0-3aba7cd19b150ed7cf2598254312daf0&amp;bcevod_channel=searchbox_feed&amp;cd=0&amp;pd=1&amp;pt=3&amp;logid=2392920723&amp;vid=12398024234293028218&amp;abtest=103742_2-103890_2-103579_2&amp;klogid=2392920723
 DJ打碟Oz Green,https://vd4.bdstatic.com/mda-nbc8e7p8yim7q4kw/sc/cae_h264_delogo/1644734834302724788/mda-nbc8e7p8yim7q4kw.mp4?v_from_s=hkapp-haokan-nanjing&amp;auth_key=1660565409-0-0-934b58e48f6e9b4cdf45b5c8c1f01ad3&amp;bcevod_channel=searchbox_feed&amp;cd=0&amp;pd=1&amp;pt=3&amp;logid=2409235034&amp;vid=16458997361411576188&amp;abtest=103742_2-103890_2-103579_2&amp;klogid=2409235034
 
-音乐·电音,#genre#
+音乐-电音,#genre#
 舞曲01,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsMiThQYo2K-O9wQ.mp4
 舞曲02,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzciThQYosK_E0QE.mp4
 舞曲03,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2ciThQYonJO4pgc.mp4
@@ -4047,7 +4047,7 @@ DJ打碟Oz Green,https://vd4.bdstatic.com/mda-nbc8e7p8yim7q4kw/sc/cae_h264_delog
 新感舞曲03,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpt6n4gUo_dTlmAE.mp4
 新感舞曲04,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv_yl4gUouY29igM.mp4
 夜店劲爆舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-IWo4gUoy8LUiQU.mp4
-💃劲歌劲舞,#genre#
+劲歌劲舞,#genre#
 「韩」DJ Soda Remix 2021 ,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 「韩」佳仁-ParadiseLost ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
 「韩」僵尸舞 ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
