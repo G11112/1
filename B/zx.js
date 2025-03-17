@@ -25,15 +25,14 @@ function convertM3uToNormal(m3u) {
         const lines = m3u.split('\n');
         let result = '';
         let TV = '';
-        // let flag='#genre#';
-        let flag = '#m3u#';
-        let currentGroupTitle = '';
+        let flag='#all#';
+        let currentGroupTitle = '未知组名';
         lines.forEach((line) => {
-            if (line.startsWith('#EXTINF:')) {
+            if (line.startsWith('#EXTINF#GENRE#genre:')) {
                 line = line.replace(/'/g, '"');
                 let groupTitle = '未知频道';
-                let tvg_name = '';
-                let tvg_logo = '';
+                let tvg_name = 'IPTV电视';
+                let tvg_logo =  'http://3650000.xyz/api/360.php';
                 try {
                     groupTitle = line.match(/group-title="(.*?)"/)[1].trim();
                 } catch (e) {
@@ -63,7 +62,7 @@ function convertM3uToNormal(m3u) {
                 result += `${TV}\,${splitLine[0]}\n`;
             }
         });
-        // result = result.trim();
+        result = result.trim();
         result = mergeChannels(result);
         // log(result);
         return result
@@ -167,10 +166,15 @@ globalThis.getRandomItem = function (items) {//从列表随机取出一个元素
 }
 globalThis.__ext = {data_dict: {}};
 var rule = {
-    title: '💻m3u8视频链接资源💻｜',
-    author: '☯️道长☯️',
-    version: '网络作者',
-    update_info: `影视资源接口｜软件｜Max宝盒-521影视-影迷-宝全影院
+    title: '直播转点播',
+    author: '小松',
+    update_info: `
+1.修复带图标的m3u源识别
+2.修复m3u8链接带参数转义问题
+3.合并重复的频道名称下的链接
+4.支持相对图片链接
+5.将原drpy项目的live2cms.js转换成hipy传参源。
+【特别说明】支持m3u和txt的直播
 `,
     host: '',
     homeUrl: '',
@@ -182,21 +186,20 @@ var rule = {
     limit: 0,
     search_limit: 0, // 搜索限制取前5个，可以注释掉，就不限制搜索
     searchable: 1,//是否启用全局搜索,
-    quickSearch: 0,//是否启用快速搜索,
+    quickSearch: 1,//是否启用快速搜索,
     filterable: 1,//是否启用分类筛选,
     play_parse: true,
-    // params: 'http://127.0.0.1:5707/files/json/live2cms.json',
+    params: 'http://127.0.0.1:5707/files/json/live2cms.json',
     // 下面自定义一些源的配置
     // def_pic: 'https://avatars.githubusercontent.com/u/97389433?s=120&v=4', //默认列表图片
-    def_pic: 'https://api.uuz.bid/random/', //默认列表图片
-    showMode: 'groups',// groups按组分类显示 all全部一条线路展示
+    def_pic: 'https://avatars.githubusercontent.com/u/97389433', //默认列表图片
+    showMode: 'all',// all按组分类显示 all全部一条线路展示
     groupDict: {},// 搜索分组字典
     tips: '', //二级提示信息
     预处理: $js.toString(() => {
         // 初始化保存的数据
-        rule.showMode = getItem('showMode', 'groups');
+        rule.showMode = getItem('showMode', 'all');
         rule.groupDict = JSON.parse(getItem('groupDict', '{}'));
-        rule.tips = `📺m3u8源直播转点播📺${rule.version}`;
 
         if (typeof (batchFetch) === 'function') {
             // 支持批量请求直接放飞自我。搜索限制最大线程数量16
@@ -224,7 +227,7 @@ var rule = {
                     img: it.img,
                 };
                 _classes.push(_obj);
-                let json1 = [{'n': '多线路分组', 'v': 'groups'}, {'n': '单线路', 'v': 'all'}];
+                let json1 = [{'n': '多线路分组', 'v': 'all'}, {'n': '单线路', 'v': 'all'}];
                 try {
                     rule.filter[_obj.type_id] = [
                         {'key': 'show', 'name': '播放展示', 'value': json1}
@@ -245,10 +248,9 @@ var rule = {
     }),
     推荐: $js.toString(() => {
         let update_info = [{
-            vod_name: '更新日志',
+            vod_name: '随机视频',
             vod_id: 'update_info',
-            vod_remarks: `版本:${rule.version}`,
-            vod_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-server/master/app/static/img/logo.png'
+            vod_pic: 'http://3650000.xyz/api/360.php'
         }];
         VODS = [];
         if (rule.classes) {
@@ -333,12 +335,11 @@ var rule = {
         if (orId === 'update_info') {
             VOD = {
                 vod_content: rule.update_info.trim(),
-                vod_name: '更新日志',
-                type_name: '更新日志',
-                vod_pic: 'https://api.uuz.bid/random/',
-                vod_remarks: `版本:${rule.version}`,
-                vod_play_from: '☯️道长在线☯️',
-                // vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
+                vod_name: '随机视频',
+                type_name: '随机视频',
+                vod_pic: 'http://3650000.xyz/api/360.php',
+                vod_play_from: '小松',
+                vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
                 vod_play_url: '随机小视频$http://api.yujn.cn/api/zzxjj.php',
             };
         } else {
@@ -353,10 +354,10 @@ var rule = {
                     log(orId);
                     VOD = {
                         vod_name: '搜索:' + vod_name,
-                        type_name: "🇨🇳国产视频合集🇨🇳",
+                        type_name: "视频音乐类型格式‖avi‖3gp‖3g2‖avi‖asf‖cpk‖div‖dv‖divx‖dat‖dirac‖fli‖flc‖flv‖f4v‖vob‖m3u‖m3u8‖mp4‖m4v‖mov‖mpg‖mpeg‖mpe‖ts‖mkv‖mod‖m2ts‖rm‖rmvb‖ram‖wmv‖webm‖qt‖lavf‖ogv‖",
                         vod_pic: rule.def_pic,
                         // vod_content: orId,
-                        vod_content: orId.replace(getHome(orId), 'http://***'),
+                        vod_content: orId.replace(getHome(orId), 'http://不要看不要看***'),
                         vod_play_from: vod_play_from,
                         vod_play_url: vod_play_url,
                         vod_director: rule.tips,
@@ -398,17 +399,17 @@ var rule = {
                     let vod_play_url;
                     let vod_play_from;
 
-                    if (rule.showMode === 'groups') {
-                        let groups = splitArray(_list, x => x.split('$')[0]);
+                    if (rule.showMode === 'all') {
+                        let all = splitArray(_list, x => x.split('$')[0]);
                         let tabs = [];
-                        for (let i = 0; i < groups.length; i++) {
+                        for (let i = 0; i < all.length; i++) {
                             if (i === 0) {
                                 tabs.push(vod_name + '@1');
                             } else {
                                 tabs.push(`@${i + 1}`);
                             }
                         }
-                        vod_play_url = groups.map(it => it.join('#')).join('$$$');
+                        vod_play_url = all.map(it => it.join('#')).join('$$$');
                         vod_play_from = tabs.join('$$$');
                     } else {
                         vod_play_url = _list.join('#');
@@ -418,10 +419,10 @@ var rule = {
                     VOD = {
                         vod_id: orId,
                         vod_name: vod_name + '|' + _tab,
-                        type_name: "🇨🇳国产视频合集🇨🇳",
+                        type_name: "视频音乐类型格式‖avi‖3gp‖3g2‖avi‖asf‖cpk‖div‖dv‖divx‖dat‖dirac‖fli‖flc‖flv‖f4v‖vob‖m3u‖m3u8‖mp4‖m4v‖mov‖mpg‖mpeg‖mpe‖ts‖mkv‖mod‖m2ts‖rm‖rmvb‖ram‖wmv‖webm‖qt‖lavf‖ogv‖",
                         vod_pic: _pic || rule.def_pic,
                         // vod_content: orId,
-                        vod_content: orId.replace(getHome(orId), 'http://***'),
+                        vod_content: orId.replace(getHome(orId), 'http://不要看不要看***'),
                         vod_play_from: vod_play_from,
                         vod_play_url: vod_play_url,
                         vod_director: rule.tips,
@@ -478,7 +479,7 @@ var rule = {
         }
     }),
     lazy: $js.toString(() => {
-        if (/\.(m3u8|mp4)/.test(input)) {
+        if (/\.(avi|3gp|3g2|avi|asf|cpk|div|dv|divx|dat|dirac|fli|flc|flv|f4v|vob|m3u|m3u8|mp4|m4v|mov|mpg|mpeg|mpe|ts|mkv|mod|m2ts|rm|rmvb|ram|wmv|webm|qt|lavf|ogv)/.test(input)) {
             if (input.includes('?') && typeof (playObj) == 'object' && playObj.url) {
                 input = playObj.url;
             }
