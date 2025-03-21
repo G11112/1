@@ -2,7 +2,7 @@
  "spider": "http://110.42.41.38:888/lib/pg.jar",
  "userName": "hewei","password":"2730006208","type": "webdav",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/GIF/20.gif",
+  "logo":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/GIF/19.gif",
   "sites": [
         {"key":"csp","name":"📺电视直播","type":3,"api":"csp_Live2Vod","searchable": 1,
             "quickSearch": 1,
@@ -29,10 +29,47 @@
             "filterable": 1,
             "changeable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/DSDBO.json"},
         {"key":"YYDBO","name":"🎶点歌音乐合集🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/jd.js","searchable":1,"changeable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/YYDBO.json"},
-        {"key":"kq","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/kuqimv.json"},
+        {
+      "key": "MTV1",
+      "name": "🎧明星┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable":0,
+      "quickSearch":0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+      "json": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/MTV.json"
+      }
+    },
+        {
+      "key": "酷狗",
+      "name": "🐾┃酷狗┃音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://ghfast.top/https://github.com/jinenge/tvbox/blob/main/lib/jinenyy.jar;md5;9d5475daa7fbec9cce647339fefad786",
+      "playerType": 2,
+      "ext": {
+        "categories": ["DJ热歌榜","纯音乐榜",
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+        {"key":"kq","name":"🎤酷奇1┃MV","type":3,"api":"csp_XPath","ext":"http://9xi4o.tk/OneClickRun/MaooXP/kuqimv.json","searchable":1,"quickSearch":1,"filterable":1},
         {
       "key": "酷奇",
-      "name": "🎤酷奇┃MV",
+      "name": "🎤酷奇2┃MV",
       "type": 3,
       "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
@@ -41,9 +78,10 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
         {
 			"key": "Yinyuetai",
