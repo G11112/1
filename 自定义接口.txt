@@ -11,11 +11,10 @@
             "key": "zx",
             "name": "📺经典在线📺",
             "type": 3,
-        
+            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./B/zx.js",
             "ext": "./B/zx.txt"
           },
           {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://codeberg.org/xycjf/tv/raw/branch/main/zbzdb.js","ext":"./B/jdlds.txt"},
