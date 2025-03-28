@@ -16,7 +16,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./B/zx.js?type=url&params=./B/zx.txt"
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.js?type=url&params=/B/zx.txt"
           },
           {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://codeberg.org/xycjf/tv/raw/branch/main/zbzdb.js","ext":"./B/jdlds.txt"},
         {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"./B/jd1.js","searchable": 1,
