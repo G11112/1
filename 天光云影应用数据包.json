@@ -1,6 +1,6 @@
 {
   "version": "3.3.5",
-  "syncAt": 1743826460581,
+  "syncAt": 1743827674796,
   "syncFrom": "荣耀畅玩20",
   "description": null,
   "configs": {
@@ -15,8 +15,8 @@
     "debugShowLayoutGrids": false,
     "iptvSourceCacheTime": 86400000,
     "iptvSourceCurrent": {
-      "name": "📺电视直播源📺（TV-2）文件格式txt-m3u",
-      "url": "https://try.gogs.io/HD/1/raw/main/A/MV音乐合集.txt",
+      "name": "📡电视直播源📡（TV-1） 文件格式txt-m3u",
+      "url": "https://codeberg.org/w1111/1/raw/branch/main/A/ZBTV.txt",
       "isLocal": false,
       "transformJs": null
     },
@@ -34,13 +34,13 @@
       "value": []
     },
     "iptvChannelLastPlay": {
-      "name": "美酒加咖啡 龙飘飘FHD",
-      "standardName": "美酒加咖啡 龙飘飘FHD",
-      "epgName": "美酒加咖啡 龙飘飘FHD",
+      "name": "璧山综合",
+      "standardName": "璧山综合",
+      "epgName": "璧山综合",
       "lineList": {
         "value": [
           {
-            "url": "https://vdse.bdstatic.com//816c73543ede254586a625cacc67ea0f.mp4",
+            "url": "http://222.179.42.129:8181/hls1.m3u8",
             "httpUserAgent": null,
             "hybridType": "None",
             "name": null,
@@ -51,12 +51,13 @@
         ]
       },
       "logo": null,
-      "index": 1429
+      "index": 0
     },
     "iptvChannelLinePlayableHostList": [
       "vd3.bdstatic.com",
       "vodcdn.video.taobao.com",
       "em.21dtv.com",
+      "222.179.42.129:8181",
       "vdse.bdstatic.com",
       "vd4.bdstatic.com",
       "15799848.s21v.faiusr.com"
@@ -71,7 +72,8 @@
       "https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4",
       "http://em.21dtv.com/songs/60039131.mkv",
       "http://em.21dtv.com/songs/60008040.mkv",
-      "http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4"
+      "http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4",
+      "http://222.179.42.129:8181/hls1.m3u8"
     ],
     "iptvChannelChangeFlip": true,
     "iptvChannelNoSelectEnable": true,
