@@ -1,6 +1,6 @@
 {
   "version": "3.3.5",
-  "syncAt": 1743824543921,
+  "syncAt": 1743826460581,
   "syncFrom": "荣耀畅玩20",
   "description": null,
   "configs": {
@@ -8,7 +8,7 @@
     "appPipEnable": false,
     "appLastLatestVersion": "",
     "appAgreementAgreed": true,
-    "appStartupScreen": "Dashboard",
+    "appStartupScreen": "Live",
     "debugDeveloperMode": false,
     "debugShowFps": false,
     "debugShowVideoPlayerMetadata": false,
@@ -76,7 +76,7 @@
     "iptvChannelChangeFlip": true,
     "iptvChannelNoSelectEnable": true,
     "iptvChannelChangeListLoop": false,
-    "epgEnable": false,
+    "epgEnable": true,
     "epgSourceCurrent": {
       "name": "默认节目单 fanmingming",
       "url": "https://live.fanmingming.com/e.xml"
