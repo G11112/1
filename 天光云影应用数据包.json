@@ -1,7 +1,7 @@
 {
   "version": "3.3.5",
-  "syncAt": 1743840529661,
-  "syncFrom": "🍎苹果s15",
+  "syncAt": 1743842495351,
+  "syncFrom": "荣耀畅玩20",
   "description": null,
   "configs": {
     "appBootLaunch": false,
@@ -34,13 +34,13 @@
       "value": []
     },
     "iptvChannelLastPlay": {
-      "name": "荣昌综合",
-      "standardName": "荣昌综合",
-      "epgName": "荣昌综合",
+      "name": "CCTV1",
+      "standardName": "CCTV1",
+      "epgName": "CCTV1",
       "lineList": {
         "value": [
           {
-            "url": "http://183.64.181.25:40023/rongchang01.m3u8",
+            "url": "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND",
             "httpUserAgent": null,
             "hybridType": "None",
             "name": null,
@@ -51,32 +51,33 @@
         ]
       },
       "logo": null,
-      "index": 871
+      "index": 182
     },
     "iptvChannelLinePlayableHostList": [
       "59.175.226.142:280",
       "222.179.42.129:8181",
-      "183.64.181.25:40023",
       "vd3.bdstatic.com",
       "vodcdn.video.taobao.com",
       "em.21dtv.com",
-      "222.179.42.129:8181",
       "vdse.bdstatic.com",
+      "183.64.181.25:40023",
       "vd4.bdstatic.com",
-      "15799848.s21v.faiusr.com"
+      "15799848.s21v.faiusr.com",
+      "[2409:8087:1:20:20::2c]"
     ],
     "iptvChannelLinePlayableUrlList": [
+      "http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4",
       "http://183.64.181.25:40023/rongchang01.m3u8",
+      "https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4",
+      "http://em.21dtv.com/songs/60008040.mkv",
+      "http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4",
       "http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8",
       "https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4",
       "http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4",
       "https://vdse.bdstatic.com//816c73543ede254586a625cacc67ea0f.mp4",
-      "http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4",
       "http://em.21dtv.com/songs/60069469.mkv",
-      "https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4",
       "http://em.21dtv.com/songs/60039131.mkv",
-      "http://em.21dtv.com/songs/60008040.mkv",
-      "http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4",
+      "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND",
       "http://222.179.42.129:8181/hls1.m3u8",
       "http://59.175.226.142:280/gb28181/xwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
     ],
