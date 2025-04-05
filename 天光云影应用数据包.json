@@ -1,7 +1,7 @@
 {
   "version": "3.3.5",
-  "syncAt": 1743838132124,
-  "syncFrom": "荣耀畅玩20",
+  "syncAt": 1743840529661,
+  "syncFrom": "🍎苹果s15",
   "description": null,
   "configs": {
     "appBootLaunch": false,
@@ -9,7 +9,7 @@
     "appLastLatestVersion": "",
     "appAgreementAgreed": true,
     "appStartupScreen": "Live",
-    "debugDeveloperMode": false,
+    "debugDeveloperMode": true,
     "debugShowFps": false,
     "debugShowVideoPlayerMetadata": false,
     "debugShowLayoutGrids": false,
@@ -25,8 +25,8 @@
     },
     "iptvChannelGroupHiddenList": [],
     "iptvHybridMode": "DISABLE",
-    "iptvSimilarChannelMerge": true,
-    "iptvChannelLogoProvider": "https://live.fanmingming.com/tv/{name|uppercase}.png",
+    "iptvSimilarChannelMerge": false,
+    "iptvChannelLogoProvider": "https://live.fanmingming.cn/tv/{name}.png",
     "iptvChannelLogoOverride": false,
     "iptvChannelFavoriteEnable": true,
     "iptvChannelFavoriteListVisible": false,
@@ -34,13 +34,13 @@
       "value": []
     },
     "iptvChannelLastPlay": {
-      "name": "璧山综合",
-      "standardName": "璧山综合",
-      "epgName": "璧山综合",
+      "name": "荣昌综合",
+      "standardName": "荣昌综合",
+      "epgName": "荣昌综合",
       "lineList": {
         "value": [
           {
-            "url": "http://222.179.42.129:8181/hls1.m3u8",
+            "url": "http://183.64.181.25:40023/rongchang01.m3u8",
             "httpUserAgent": null,
             "hybridType": "None",
             "name": null,
@@ -51,9 +51,12 @@
         ]
       },
       "logo": null,
-      "index": 0
+      "index": 871
     },
     "iptvChannelLinePlayableHostList": [
+      "59.175.226.142:280",
+      "222.179.42.129:8181",
+      "183.64.181.25:40023",
       "vd3.bdstatic.com",
       "vodcdn.video.taobao.com",
       "em.21dtv.com",
@@ -63,6 +66,7 @@
       "15799848.s21v.faiusr.com"
     ],
     "iptvChannelLinePlayableUrlList": [
+      "http://183.64.181.25:40023/rongchang01.m3u8",
       "http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8",
       "https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4",
       "http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4",
@@ -73,7 +77,8 @@
       "http://em.21dtv.com/songs/60039131.mkv",
       "http://em.21dtv.com/songs/60008040.mkv",
       "http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4",
-      "http://222.179.42.129:8181/hls1.m3u8"
+      "http://222.179.42.129:8181/hls1.m3u8",
+      "http://59.175.226.142:280/gb28181/xwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
     ],
     "iptvChannelChangeFlip": true,
     "iptvChannelNoSelectEnable": true,
@@ -87,12 +92,12 @@
       "value": []
     },
     "epgRefreshTimeThreshold": 2,
-    "epgSourceFollowIptv": true,
+    "epgSourceFollowIptv": false,
     "epgChannelReserveList": {
       "value": []
     },
     "uiShowEpgProgrammeProgress": true,
-    "uiShowEpgProgrammePermanentProgress": false,
+    "uiShowEpgProgrammePermanentProgress": true,
     "uiShowChannelLogo": true,
     "uiShowChannelPreview": true,
     "uiUseClassicPanelScreen": true,
@@ -107,7 +112,7 @@
     "videoPlayerRenderMode": "SURFACE_VIEW",
     "videoPlayerUserAgent": "okhttp",
     "videoPlayerHeaders": "",
-    "videoPlayerLoadTimeout": 15000,
+    "videoPlayerLoadTimeout": 30000,
     "videoPlayerDisplayMode": "WIDE",
     "themeAppCurrent": null,
     "cloudSyncAutoPull": null,
