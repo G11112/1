@@ -1,7 +1,7 @@
 {
   "version": "3.3.5",
-  "syncAt": 1743918196055,
-  "syncFrom": "🍎苹果s15",
+  "syncAt": 1743920183955,
+  "syncFrom": "🍎苹果16",
   "description": null,
   "configs": {
     "appBootLaunch": false,
@@ -13,7 +13,7 @@
     "debugShowFps": false,
     "debugShowVideoPlayerMetadata": false,
     "debugShowLayoutGrids": false,
-    "iptvSourceCacheTime": 86400000,
+    "iptvSourceCacheTime": 9223372036854776000,
     "iptvSourceCurrent": {
       "name": "📡电视直播源📡（TV-1） 文件格式txt-m3u",
       "url": "https://codeberg.org/w1111/1/raw/branch/main/A/ZBTV.txt",
@@ -25,7 +25,7 @@
     },
     "iptvChannelGroupHiddenList": [],
     "iptvHybridMode": "DISABLE",
-    "iptvSimilarChannelMerge": false,
+    "iptvSimilarChannelMerge": true,
     "iptvChannelLogoProvider": "https://live.fanmingming.cn/tv/{name}.png",
     "iptvChannelLogoOverride": false,
     "iptvChannelFavoriteEnable": true,
@@ -51,23 +51,18 @@
         ]
       },
       "logo": null,
-            "index": 257
+      "index": 257
     },
     "iptvChannelLinePlayableHostList": [
-      "[2409:8087:1:20:20::2c]"
-      "59.175.226.142:280",
-      "222.179.42.129:8181",
-      "vd3.bdstatic.com",
-      "vodcdn.video.taobao.com",
-      "em.21dtv.com",
-      "vdse.bdstatic.com",
-      "183.64.181.25:40023",
-      "vd4.bdstatic.com",
-      "15799848.s21v.faiusr.com",
-      "[2409:8087:1:20:20::2c]"
+      "[2409:8087:1:20:20::2c]",
+      "[2409:8087:8:21::16]:6610",
+      "[2409:8087:1:20:20::29]"
     ],
     "iptvChannelLinePlayableUrlList": [
-      "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND"
+      "http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?IASHttpSessionId=RR1686420250220125855019281&ispcode=67",
+      "http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND",
+      "http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND",
+      "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND",
       "http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4",
       "http://183.64.181.25:40023/rongchang01.m3u8",
       "https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4",
@@ -100,22 +95,22 @@
       "value": []
     },
     "uiShowEpgProgrammeProgress": true,
-    "uiShowEpgProgrammePermanentProgress": true,
+    "uiShowEpgProgrammePermanentProgress": false,
     "uiShowChannelLogo": true,
     "uiShowChannelPreview": true,
     "uiUseClassicPanelScreen": true,
     "uiDensityScaleRatio": 0,
     "uiFontScaleRatio": 1,
-    "uiTimeShowMode": "EVERY_HOUR",
+    "uiTimeShowMode": "ALWAYS",
     "uiFocusOptimize": false,
     "uiScreenAutoCloseDelay": 15000,
-    "updateForceRemind": false,
+    "updateForceRemind": true,
     "updateChannel": "stable",
-    "videoPlayerCore": "IJK",
+    "videoPlayerCore": "MEDIA3",
     "videoPlayerRenderMode": "SURFACE_VIEW",
     "videoPlayerUserAgent": "okhttp",
     "videoPlayerHeaders": "",
-    "videoPlayerLoadTimeout": 30000,
+    "videoPlayerLoadTimeout": 15000,
     "videoPlayerDisplayMode": "WIDE",
     "themeAppCurrent": null,
     "cloudSyncAutoPull": null,
