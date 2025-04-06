@@ -1,7 +1,7 @@
 {
   "version": "3.3.5",
-  "syncAt": 1743842495351,
-  "syncFrom": "荣耀畅玩20",
+  "syncAt": 1743918196055,
+  "syncFrom": "🍎苹果s15",
   "description": null,
   "configs": {
     "appBootLaunch": false,
@@ -51,9 +51,10 @@
         ]
       },
       "logo": null,
-      "index": 182
+            "index": 257
     },
     "iptvChannelLinePlayableHostList": [
+      "[2409:8087:1:20:20::2c]"
       "59.175.226.142:280",
       "222.179.42.129:8181",
       "vd3.bdstatic.com",
@@ -66,6 +67,7 @@
       "[2409:8087:1:20:20::2c]"
     ],
     "iptvChannelLinePlayableUrlList": [
+      "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND"
       "http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4",
       "http://183.64.181.25:40023/rongchang01.m3u8",
       "https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4",
