@@ -15,8 +15,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"js": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.js",
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.txt"
+			"js": "./B/zx.js",
+			"ext": "./B/zx.txt"
           },
           {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://codeberg.org/xycjf/tv/raw/branch/main/zbzdb.js","ext":"./B/jdlds.txt"},
         {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"./B/jd1.js","searchable": 1,
@@ -93,7 +93,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-           "ext": ".https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/wnkj.json"
+           "ext": "./A/wnkj.json"
         },
 {"key": "Wexokconfig","name": "㊙️配置中心㊙️","type": 3,"api": "csp_WexokconfigGuard","searchable": 0,"changeable": 0,"indexs": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt;md5;b2c4ec623fdb1f2e25327581f850d560"},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable": 0,"changeable": 0,"indexs": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
@@ -109,7 +109,7 @@
             "filterable": 1,
             "changeable": 1,
             "searchable": 1,
-            "ext": "../jar/tokentemplate2.json"
+            "ext": "./jar/tokentemplate2.json"
         },
         {
             "key": "网盘配置",
@@ -126,7 +126,7 @@
             "ratio": 1.5
             }
         },
-        {"key": "暴风采集","name": "🌪️暴风影音","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": [  "福利",
+        {"key": "暴风采集","name": "🌪️暴风影音","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"https://jx.yparse.com/index.php?url=","categories": [  "福利",
  "理论片",  "国产剧",  "国产动漫",  "动作片",  "科幻片",  "剧情片",  "喜剧片",  "爱情片",  "恐怖片",  "战争片",  "香港剧",  "台湾剧",  "日本剧",  "欧美剧",  "泰国剧",  "日本动漫",  "综艺频道",  "大陆综艺",  "港台综艺",  "日本综艺",  "新马泰综艺",  "纪录片"]
     },
         {
@@ -134,7 +134,7 @@
       "name": "🎈┃暴风┃",
       "type": 1,
       "api": "https://app.bfzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
+      "playUrl":"https://jx.yparse.com/index.php?url=",
       "categories": [
         "福利",
         "理论片",
@@ -162,7 +162,7 @@
       "name": "🎈┃暴风2┃",
       "type": 1,
       "api": "https://app.bfzyapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
+      "playUrl":"https://jx.yparse.com/index.php?url=",
       "categories": [
         "福利",
         "国产剧",
@@ -217,7 +217,7 @@
             "name": "速播🏮蓝光",
             "type": 1,
             "api": "https://subocaiji.com/api.php/provide/vod/",
-            "playUrl": "",
+            "playUrl":"https://jx.yparse.com/index.php?url=",
             "searchable": 1,
             "quickSearch": 1
         },  
@@ -261,7 +261,7 @@
             "name": "金鹰🏮蓝光",
             "type": 1,
             "api": "https://jyzyapi.com/provide/vod/",
-            "playUrl": "",
+            "playUrl":"https://jx.yparse.com/index.php?url=",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -339,7 +339,7 @@
             "name": "🌌量子资源",
             "type": 1,
             "api": "http://cj.lziapi.com/api.php/provide/vod/",
-            "playUrl": "",
+            "playUrl":"https://jx.yparse.com/index.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -729,7 +729,7 @@ key: "速博资源",
 name: "🍎速博资源",
 type: 1,
 api: "https://subocaiji.com/api.php/provide/vod/",
-playUrl: "",
+"playUrl":"https://jx.yparse.com/index.php?url=",
 searchable: 1,
 quickSearch: 1
 },
@@ -744,7 +744,7 @@ key: "天翼资源",
 name: "🍎天翼资源",
 type: 1,
 api: "https://www.911ysw.top/tianyi.php/provide/vod/",
-playUrl: "",
+"playUrl":"https://jx.yparse.com/index.php?url=",
 searchable: 1,
 quickSearch: 1
 },
@@ -759,7 +759,7 @@ key: "虎牙资源",
 name: "🍎虎牙资源",
 type: 1,
 api: "https://www.huyaapi.com/api.php/provide/vod/",
-playUrl: "",
+"playUrl":"https://jx.yparse.com/index.php?url=",
 searchable: 1,
 quickSearch: 1
 },
