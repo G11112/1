@@ -11,11 +11,12 @@
 			"key": "zx",
 			"name": "📺经典在线📺",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/drpy2.min.js",
+			"api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.js?type=url&params=https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.txt"
+			"js": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.js",
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.txt"
           },
           {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://codeberg.org/xycjf/tv/raw/branch/main/zbzdb.js","ext":"./B/jdlds.txt"},
         {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"./B/jd1.js","searchable": 1,
