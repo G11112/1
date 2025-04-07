@@ -6,7 +6,7 @@
   "sites": [{"key":"csp","name":"📺电视直播","type":3,"api":"csp_Live2Vod","searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable":1,"jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;9f391d889e28d3c40092fabb562f408c","ext":"🔴直播🔴1$.https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV1.txt#🟢直播2🟢$.https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/ZBTV.txt#🔵直播3🔵$.https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV2.txt#🎵点歌音乐合集🎵$.https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&http://74.120.175.78/JK/api/bg/"},
+            "changeable":1,"jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;9f391d889e28d3c40092fabb562f408c","ext":"🔴直播🔴1$https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV1.txt#🟢直播2🟢$https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/ZBTV.txt#🔵直播3🔵$https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV2.txt#🎵点歌音乐合集🎵$https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&http://74.120.175.78/JK/api/bg/"},
           {
             "key": "zx",
             "name": "📺经典在线📺",
@@ -17,7 +17,7 @@
             "filterable": 1,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/zx.txt"
           },
-          {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://codeberg.org/xycjf/tv/raw/branch/main/zbzdb.js","ext":"./B/jdlds.txt"},
+          {"key":"jdlds","name":"📀电影｜电视｜音乐📀","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://codeberg.org/xycjf/tv/raw/branch/main/zbzdb.js","ext":"/B/jdlds.txt"},
         {"key":"JD经典","name":"🔴电影｜电视｜在线点播🔴","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"/B/jd1.js","searchable": 1,
       "quickSearch": 1,
       "filterable": 1,"ext":"/B/JD.json"},
@@ -26,8 +26,8 @@
       "filterable": 1,"style":{"type":"oval"},"api":"./B/jd2.js","searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable":1,"ext":"./B/DSDBO.json"},
-        {"key":"YYDBO","name":"🎶点歌音乐合集🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"B/jd.js","searchable":1,"changeable":1,"ext":"./B/YYDBO.json"},
+            "changeable":1,"ext":"/B/DSDBO.json"},
+        {"key":"YYDBO","name":"🎶点歌音乐合集🎵","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"/B/jd.js","searchable":1,"changeable":1,"ext":"/B/YYDBO.json"},
         {
       "key": "酷狗",
       "name": "🐾┃酷狗┃音乐",
