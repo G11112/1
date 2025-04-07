@@ -1545,7 +1545,7 @@ quickSearch: 1
         {
             "name": "📺直播3",
             "type": 0,
-            "url": ".https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV2.txt",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV2.txt",
             "ua": "okhttp/3.15"
         },
         {"name": "📀点歌MTV📀","type": 0,"url": "./A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
