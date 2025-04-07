@@ -1,26 +1,26 @@
 [
    {
     "name": "游本昌济公",
-    "url": "https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/A/jigyj.txt&&&https://bkimg.cdn.bcebos.com/pic/bd315c6034a85edf536474b849540923dc547545?cid=1"
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/jigyj.txt&&&https://bkimg.cdn.bcebos.com/pic/bd315c6034a85edf536474b849540923dc547545?cid=1"
    },
    {
     "name": "新白娘子",
-    "url": "https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/A/xbnzcq.txt&&&https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/jpg-png/2.png?cid=2"
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/xbnzcq.txt&&&https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/jpg-png/2.png?cid=2"
     },
     {
         "name": "还珠格格",
-        "url": "https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/A/hzgg.txt&&&https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/jpg-png/1.jpg?cid=3"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/hzgg.txt&&&https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/jpg-png/1.jpg?cid=3"
     },
     {
         "name": "电影轮播",
-        "url": "https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/A/电影轮播.txt&&&https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/A/002.png?cid=4"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/电影轮播.txt&&&https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/002.png?cid=4"
     },
     {
   "name": "MTV音乐合集",
-  "url": "https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/A/MV音乐合集.txt&&&https://cdn.pixabay.com/photo/2013/07/12/18/31/beat-153442_1280.png?cid=5"
+  "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/MV音乐合集.txt&&&https://cdn.pixabay.com/photo/2013/07/12/18/31/beat-153442_1280.png?cid=5"
   },
     {
     "name": "点歌音乐",
-    "url": "https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&https://fastly.jsdelivr.net/combine/gh/G11112/1@refs/heads/main/A/yydbhj.jpg?cid=6"
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt&&&https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/yydbhj.jpg?cid=6"
   }
 ]
