@@ -11,7 +11,7 @@
             "key": "zx",
             "name": "📺经典在线📺",
             "type": 3,
-            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
