@@ -11,7 +11,7 @@
 			"key": "zx",
 			"name": "📺经典在线📺",
 			"type": 3,
-			"api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/B/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1534,18 +1534,18 @@ quickSearch: 1
             "ext": "http://110.42.41.38:888/lib/tokenm.json"
         }
     ],
-   "lives": [{"name":"📀直播1📀","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/ZBTV.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
+   "lives": [{"name":"📀直播1📀","type":0,"url":"./A/ZBTV.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.cn/tv/{name}.png"},
         {
             "name": "📺直播2",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV1.txt",
+            "url": "./A/TV1.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"},
         {
             "name": "📺直播3",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/G11112/1/refs/heads/main/A/TV2.txt",
+            "url": "./A/TV2.txt",
             "ua": "okhttp/3.15"
         },
         {"name": "📀点歌MTV📀","type": 0,"url": "./A/MTV%E9%9F%B3%E4%B9%90%E7%82%B9%E6%AD%8C%E5%90%88%E9%9B%86.txt","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
